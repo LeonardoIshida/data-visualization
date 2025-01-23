@@ -88,3 +88,8 @@ This phase of the project expands on the foundation laid in Phase 1, encompassin
     * **Family Income and Graduation Rates:** A strong positive correlation was found between family income and graduation rates, suggesting that financial stability positively influences academic success.  A relationship was observed between lower family income and part-time student status, possibly due to students balancing work and studies.  A general trend showed that higher family income is inversely proportional to the level of upward mobility achieved after graduation, with some exceptions in top-ranked institutions.
 
 4. **Reflections:** The project provided valuable learning experiences in data exploration, visualization techniques, and the importance of interactive elements for in-depth analysis.  The process of formulating and answering research questions through visualization proved particularly insightful.
+
+ 
+## Built With
+
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
